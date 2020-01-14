@@ -1,0 +1,11 @@
+*.pth
+train_images
+train_masks
+test_images
+test_masks
+*.csv
+car_models
+car_models_json
+*.hdf5
+camera
+pytorchcv/__pycache__
